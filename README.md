@@ -1,1 +1,2 @@
-# Comp3123_labexercise_fall2021
+# Comp3123
+# lab exercises, labtests and assignments by Rutik Patel
