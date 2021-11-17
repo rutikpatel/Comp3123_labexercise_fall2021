@@ -1,0 +1,50 @@
+
+.App {
+  padding: 5%;
+  border: 1px solid black;
+ 
+}
+
+.img{
+  align-content: start;
+  padding: 1%;
+}
+img{
+  padding-top: 5%;
+  height: 200px;
+  padding-left :2%;
+}
+.Center {
+  text-align: center;
+  height: 50px;
+  background-color: rgb(71, 224, 105); 
+}
+button{
+  align-content: center;
+}
+section{
+  border: 1px solid rgb(0, 0, 0); 
+  border-radius: 4px;
+  background-color: rgb(7, 170, 170);
+}
+.section {
+  border-top: 1px solid rgb(0, 0, 0);
+  border-radius: 4px;
+  display: flex;
+  flex-direction: row;
+  font-family: sans-serif;
+  background-color: rgb(67, 221, 221);
+}
+
+.paragraph {
+  color: #555;
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  padding: 20px;
+}
+
+
+
